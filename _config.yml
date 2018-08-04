@@ -1,0 +1,19 @@
+# Site settings
+title: Setyo Nugroho's | Homepage
+description: Setyo Nugroho's Personal Homepage
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "https://setyongr.com"
+
+# User settings
+username: Setyo Nugroho
+user_title: hello world.
+email: realsetyongr@gmail.com
+twitter_username: setyongr
+github_username:  setyongr
+gplus_username:  setyongr
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
